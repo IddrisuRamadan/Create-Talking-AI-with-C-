@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717261521 source:m:\first ai\first_ai\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+
